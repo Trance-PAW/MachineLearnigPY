@@ -1,4 +1,5 @@
 streamlit
+pandas_ta
 pandas
 scikit-learn
 joblib

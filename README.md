@@ -1,4 +1,13 @@
-# Predicción del Precio de Solana con SVM y Streamlit
+# Maestria en Ingenieria en Computación de la Facultad de Ingenieria de la UACH
+
+## Proyecto de Machine Learning
+
+- Clase: Machine Learning  
+- Alumno: Jesús Manuel Muñoz Larguero  
+- Matrícula: 207054
+
+
+## Predicción del Precio de Solana con SVM y Streamlit
 
 Este proyecto utiliza un modelo de **Support Vector Machine (SVM)** para predecir si el precio de **Solana** subirá o bajará en las próximas 5 horas. El modelo se entrena utilizando indicadores técnicos como **EMA, RSI, MACD** y **SAR**. Además, se utiliza una aplicación de **Streamlit** para proporcionar una interfaz simple donde los usuarios pueden ingresar valores y obtener predicciones del modelo.
 

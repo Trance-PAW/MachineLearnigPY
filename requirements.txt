@@ -5,7 +5,6 @@ scikit-learn
 joblib
 matplotlib
 seaborn
-TA-Lib
 altair==5.4.1
 attrs==24.2.0
 blinker==1.8.2

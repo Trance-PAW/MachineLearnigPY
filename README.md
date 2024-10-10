@@ -137,3 +137,9 @@ Si quieres entrenar el modelo desde cero:
 python train_model.py
 ```
 El modelo entrenado se guardará como best_pipeline_svm.sav.
+
+# Enlace de streamlit  
+```bash
+https://solanamlmic.streamlit.app/
+```
+
